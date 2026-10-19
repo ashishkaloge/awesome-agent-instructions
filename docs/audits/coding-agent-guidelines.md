@@ -1,6 +1,6 @@
 # Read-only public Guidelines audit
 
-Source: https://github.com/incline-ltd/coding-agent-guidelines
+Source: https://github.com/ashishkaloge/coding-agent-guidelines
 Checked: 2026-10-03. Local public-source revision: 115970688831472c8dbef9a9d6275a7e2c572b1b; working tree clean on main. This is an audit of public product source, not personal runtime guidance.
 No source file was edited and no replacement policy is proposed without owner review.
 
