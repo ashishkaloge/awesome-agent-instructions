@@ -30,6 +30,6 @@
     </g>
   </g>
   <path d="M64 540H1216" stroke="#000000" stroke-opacity=".08"/>
-  <text x="64" y="586" font-family="Menlo, Consolas, monospace" font-size="15" fill="#7a7a7c">github.com/incline-ltd/awesome-agent-instructions</text>
+  <text x="64" y="586" font-family="Menlo, Consolas, monospace" font-size="15" fill="#7a7a7c">github.com/ashishkaloge/awesome-agent-instructions</text>
   <text x="1216" y="586" text-anchor="end" font-family="Inter, Helvetica, Arial, sans-serif" font-size="14" fill="#7a7a7c">Less noise. Clearer instructions.</text>
 </svg>
