@@ -119,7 +119,7 @@ from body. It reads explicit files and prints no instruction content.
 imports, global policy, rule activation, and skill discovery all affect what
 reaches a session. Summing files for different agents would overstate it.
 For discovery and activation evidence, see
-[Agent Policy Map](https://github.com/incline-ltd/agent-policy-map).
+[Agent Policy Map](https://github.com/ashishkaloge/agent-policy-map).
 
 ## Curated reading
 
@@ -147,14 +147,14 @@ Fewer estimated tokens alone do not establish faster work, lower bills, or
 better code. Reports must preserve that distinction. The skill does not
 replace access controls, sandboxes, or human review.
 
-## Related Incline projects
+## Related projects
 
-These projects are maintained by the same organization:
+These projects share the same maintainer:
 
-- [Awesome Agentic Engineering](https://github.com/incline-ltd/awesome-agentic-engineering): the broader engineering resource guide.
-- [Coding Agent Guidelines](https://github.com/incline-ltd/coding-agent-guidelines): reusable coding conventions.
-- [Agent Policy Map](https://github.com/incline-ltd/agent-policy-map): read-only instruction discovery and activation analysis.
-- [Agent Cost Guard](https://github.com/incline-ltd/agent-cost-guard): cost controls for agent workflows; see its current release status.
+- [Awesome Agentic Engineering](https://github.com/ashishkaloge/awesome-agentic-engineering): the broader engineering resource guide.
+- [Coding Agent Guidelines](https://github.com/ashishkaloge/coding-agent-guidelines): reusable coding conventions.
+- [Agent Policy Map](https://github.com/ashishkaloge/agent-policy-map): read-only instruction discovery and activation analysis.
+- [Agent Cost Guard](https://github.com/ashishkaloge/agent-cost-guard): cost controls for agent workflows; see its current release status.
 
 ## Contributing
 

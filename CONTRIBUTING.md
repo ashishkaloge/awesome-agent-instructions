@@ -14,7 +14,7 @@ star requirements, referral links, or unsupported performance claims.
 
 For code, use Python 3.10+ and the standard library. The helper measures
 explicitly selected files; discovery and activation modeling belong in
-[Agent Policy Map](https://github.com/incline-ltd/agent-policy-map).
+[Agent Policy Map](https://github.com/ashishkaloge/agent-policy-map).
 
 Run from the repository root:
 
