@@ -131,6 +131,7 @@ For discovery and activation evidence, see
 - [Copilot customization support](https://docs.github.com/en/copilot/reference/customization-cheat-sheet): which instruction features apply on which Copilot surface.
 - [Gemini CLI context](https://geminicli.com/docs/cli/gemini-md/): context files, imports, and directory-specific discovery.
 - [Agent Skills specification](https://agentskills.io/specification): the portable skill format and progressive disclosure.
+- [Vibe Coding Rules Starter](https://github.com/theodorecreatesco/vibe-coding-rules-starter): free MIT AGENTS.md, CLAUDE.md and always-on Cursor security rule for a short ranked project brief. Disclosure: I maintain that starter repo.
 
 Sources were checked on October 3, 2026. See the
 [source notes](skills/trim-instructions/references/sources.md) for boundaries.
